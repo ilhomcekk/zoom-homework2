@@ -1,0 +1,17 @@
+:root{
+    --darkblue: #091e42;
+}
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+*{
+    box-sizing: border-box;
+    font-family: sans-serif
+}
+#arrow i:hover{
+    opacity: 0.9;
+    cursor: pointer;
+    background-color: #f6f6f6;
+}
